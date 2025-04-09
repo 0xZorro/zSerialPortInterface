@@ -1,3 +1,18 @@
+// ============================================
+// zSerialPortInterface - Arduino LED Controller
+// ============================================
+// Author: Jose Luis Ocana (GitHub: 0xZorro)
+// Created: 2025-04-09
+// Description: A Windows API-based C++ tool to communicate with an Arduino
+//              over a serial COM port. Sends PWM commands to control the
+//              brightness of 4 LEDs (r, g, b, y) using text-based input.
+//              Also supports 'exit' command to power off LEDs and close the port.
+//
+// License: MIT License (see LICENSE file for details)
+// Version: 1.0
+// Repository: https://github.com/0xZorro/SerialPortInterface
+// ============================================
+
 #include <windows.h>
 #include <iostream>
 #include <string>
