@@ -1,3 +1,17 @@
+// ============================================
+// Arduino LED Controller for zSerialPortInterface
+// ============================================
+// Author: Jose Luis Ocana (GitHub: 0xZorro)
+// Created: 2025-04-09
+// Description: Listens to serial input from PC and controls the brightness of
+//              red, green, blue, and yellow LEDs via PWM. Supports commands
+//              like 'r128', 'g255', and 'x0' for shutdown on exit.
+//
+// License: MIT License (see LICENSE file for details)
+// Version: 1.0
+// Repository: https://github.com/0xZorro/SerialPortInterface
+// ============================================
+
 // Define PWM output pins for each LED
 const int BLUE_PIN = 3;
 const int GREEN_PIN = 5;
