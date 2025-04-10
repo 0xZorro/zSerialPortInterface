@@ -89,3 +89,6 @@ PWM is usually implemented using **hardware timers** on the microcontroller. The
 
 PWM is an essential technique for combining **digital control with analog behavior** – a fundamental tool in embedded systems.
 
+Documentation written by: Jose Luis Ocana (GitHub: [0xZorro](https://github.com/0xZorro))  
+Last updated: April 2025
+
