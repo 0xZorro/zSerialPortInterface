@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="zSerialPortInterface" width="300"/>
+</p>
+
 # zSerialPortInterface
 
 **zSerialPortInterface** ist eine C++-Anwendung, die über die Windows-API mit einem Arduino-Board per serieller Schnittstelle (COM-Port) kommuniziert.  
@@ -132,3 +136,11 @@ Ursprünglich erstellt zur Testung serieller Kommunikation zwischen PC und Ardui
 - **Windows API (Win32)**  
 - **Arduino IDE**  
 - **Visual Studio 2022**
+
+---
+
+<p align="center">
+  <img src="brand.png" alt="by 0xZorro" width="120"/>
+</p>
+
+
