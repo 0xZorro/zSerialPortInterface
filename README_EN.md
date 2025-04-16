@@ -119,3 +119,11 @@ Originally created for testing serial communication between PC and Arduino.
 - Windows API (Win32)
 - Arduino IDE
 - Visual Studio 2022
+
+---
+
+<p align="center">
+  <img src="brand.png" alt="by 0xZorro" width="120"/>
+</p>
+
+---
