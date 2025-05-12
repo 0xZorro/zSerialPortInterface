@@ -40,7 +40,9 @@ Um dieses Projekt nutzen zu können, benötigst du folgende Komponenten:
 Dieses Projekt enthält zwei Darstellungen der Schaltung zur besseren Übersicht:
 
 - **Shematic Diagram (PDF)** – Eine technische, elektrische Zeichnung mit Pin-Belegung und Widerstandswerten
+- (./Shematic Diagram.md)
 - **Breadboard View (PNG)** – Eine symbolische, vereinfachte Darstellung des Aufbaus
+- (./Breadboard View.md)
 
 > Beide Darstellungen wurden mit **Tinkercad Circuits** von Autodesk erstellt.
 
