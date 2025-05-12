@@ -34,7 +34,10 @@ To run this project, you’ll need the following hardware components:
 This project includes two circuit representations for better understanding of the hardware setup:
 
 1. **Schematic Diagram (PDF)** – A detailed and electrically accurate diagram showing all connections, pin labels, and resistor values.
+   - [Schematic Diagram (PDF)](./Schematic%20Diagram.pdf)
 2. **Breadboard View (PNG)** – A simplified, visual version of the setup, useful for a quick glance.
+   - [Breadboard View](./Breadboard%20View.png)
+
 
 > Both diagrams were created using [Tinkercad Circuits](https://www.tinkercad.com/circuits) by Autodesk.
 
