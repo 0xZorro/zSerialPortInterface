@@ -12,7 +12,7 @@
 Das Projekt ermöglicht es, vier LEDs (rot, grün, blau, gelb) am Arduino zu steuern – durch einfache Kommandos, die vom PC gesendet werden.
 
 Im Gegensatz zu einfacher Ein-/Aus-Schaltung unterstützt dieses Projekt auch **PWM (Pulsweitenmodulation)** – so kann die Helligkeit jeder LED durch einen Wert zwischen 0 und 255 eingestellt werden.  
-Beispiel: `r128` stellt die rote LED auf 50 % Helligkeit.
+Beispiel: `r128` stellt die rote LED auf 50 % Helligkeit.   [PWM technischer Überblick](./PWM_Technischer_Ueberblick.md)
 
 Jedes Kommando wird vom Arduino mit einem Antwortsignal bestätigt – für eine zuverlässige bidirektionale Kommunikation.
 
