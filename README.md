@@ -42,7 +42,7 @@ Dieses Projekt enthält zwei Darstellungen der Schaltung zur besseren Übersicht
 - **Shematic Diagram (PDF)** – Eine technische, elektrische Zeichnung mit Pin-Belegung und Widerstandswerten
 - [Shematic Diagram (PDF)](./Shematic%20Diagram.pdf)
 - **Breadboard View (PNG)** – Eine symbolische, vereinfachte Darstellung des Aufbaus
-- [![Breadboard View](Breadboard%20View.png)](./Breadboard%20View.png)
+- [Breadboard View](./Breadboard%20View.png)
 
 > Beide Darstellungen wurden mit **Tinkercad Circuits** von Autodesk erstellt.
 
