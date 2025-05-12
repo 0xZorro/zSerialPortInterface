@@ -39,8 +39,8 @@ Um dieses Projekt nutzen zu können, benötigst du folgende Komponenten:
 
 Dieses Projekt enthält zwei Darstellungen der Schaltung zur besseren Übersicht:
 
-- **Shematic Diagram (PDF)** – Eine technische, elektrische Zeichnung mit Pin-Belegung und Widerstandswerten
-- [Shematic Diagram (PDF)](./Shematic%20Diagram.pdf)
+- **Schematic Diagram (PDF)** – Eine technische, elektrische Zeichnung mit Pin-Belegung und Widerstandswerten
+- [Schematic Diagram (PDF)](./Schematic%20Diagram.pdf)
 - **Breadboard View (PNG)** – Eine symbolische, vereinfachte Darstellung des Aufbaus
 - [Breadboard View](./Breadboard%20View.png)
 
