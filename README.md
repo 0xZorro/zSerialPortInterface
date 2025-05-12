@@ -1,5 +1,9 @@
 <p align="center">
   <img src="Banner.png" alt="zSerialPortInterface" width="300"/>
+</p
+
+<p align="right">
+  <a href="./README_EN.md">Switch to English version</a>
 </p>
 
 # zSerialPortInterface
