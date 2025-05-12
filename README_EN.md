@@ -2,6 +2,10 @@
   <img src="Banner.png" alt="zSerialPortInterface" width="300"/>
 </p>
 
+<p align="right">
+  <a href="./README.md">Zur deutschen Version wechseln</a>
+</p>
+
 # zSerialPortInterface
 
 SerialPortInterface is a C++ application using the Windows API to communicate with an Arduino board via serial connection (COM port). The project allows users to control four individual LEDs (red, green, blue, yellow) connected to the Arduino by sending simple commands from the PC.
