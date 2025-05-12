@@ -10,7 +10,7 @@
 
 SerialPortInterface is a C++ application using the Windows API to communicate with an Arduino board via serial connection (COM port). The project allows users to control four individual LEDs (red, green, blue, yellow) connected to the Arduino by sending simple commands from the PC.
 
-Unlike basic on/off switching, this project supports PWM (Pulse Width Modulation) control — allowing users to adjust the brightness of each LED by specifying a value between 0 and 255. For example, sending the command `r128` sets the red LED to 50% brightness.
+Unlike basic on/off switching, this project supports PWM (Pulse Width Modulation) control — allowing users to adjust the brightness of each LED by specifying a value between 0 and 255. For example, sending the command `r128` sets the red LED to 50% brightness.  [PWM technical explanation](./PWM_Technical_Explanation.md)
 
 Each command is acknowledged by the Arduino with a response signal sent back to the PC, ensuring reliable two-way communication.
 
